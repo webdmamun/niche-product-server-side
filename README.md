@@ -1,15 +1,15 @@
-# Server for Beany baby Website..
+# Server for Guitar Point Website...
 
 
 
-* Live Site Link:- [https://niche-product.web.app/](https://niche-product.web.app/)
-* Another Live Site Link:- [https://suptohita-toy-shop.netlify.app/](https://suptohita-toy-shop.netlify.app/)
+* Live Site Link:- [https://guitarpoint-a4712.web.app/](https://guitarpoint-a4712.web.app/)
+
 
 * For install all neccessary package:- `npm i` or `yarn add`
 * For run:- `npm start`
 
-* This is server for Beany Baby...
-* Server site link: [https://suptohita-toy-shop-server.herokuapp.com/](https://suptohita-toy-shop-server.herokuapp.com/)
+* This is server for Guitar Point
+* Server site link: [https://polar-eyrie-45293.herokuapp.com/](https://polar-eyrie-45293.herokuapp.com/)
   
 
     ⚫ Used Technology: `Node.JS`, `Express`, `cors`, `heroku`, `mongodb`
